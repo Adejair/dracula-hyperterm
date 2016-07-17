@@ -15,9 +15,9 @@ Restart hyperterm :)
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Adejair Junior](https://avatars2.githubusercontent.com/u/9503105?v=3&s=70)](https://github.com/Adejair) | [![Zeno Rocha](https://avatars2.githubusercontent.com/u/398893?v=3&s=70)](https://github.com/zenorocha)
---- | ---
-[Adejair Júnior](https://github.com/Adejair) | [Zeno Rocha](https://github.com/zenorocha)
+[![Adejair Junior](https://avatars2.githubusercontent.com/u/9503105?v=3&s=70)](https://github.com/Adejair) |
+--- |
+[Adejair Júnior](https://github.com/Adejair)|
 
 ## License
 
