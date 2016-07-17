@@ -1,0 +1,14 @@
+{
+  "name": "hyperterm-dracula",
+  "version": "1.0.1",
+  "description": "Dracula theme for hyperterm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hyperterm"
+  ],
+  "author": "Adejair Júnior",
+  "license": "ISC"
+}
